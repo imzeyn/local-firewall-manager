@@ -1,0 +1,10 @@
+# Example Whitelist
+
+# IP Address
+192.168.1.1
+
+# Domain
+example.com
+
+# Another IP
+10.0.0.1
